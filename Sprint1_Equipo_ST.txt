@@ -1,9 +1,10 @@
-Integrantes: Jenyfer Rico,
+Integrantes: Jenyfer Rico, Andrés Palma Figueroa
 Descripción del proyecto: El proyecto se basa en la creación de repositorios en el cual se verán evidenciadas la creación de ramas (Development, Release y Master), así 
 como los comandos básicos de Git. De igual manera el estudio y ejecucción del modelo de Pull Request para el merge en cada una de las ramas de acuerdo al Git Flow
 establecido.
 Presentación de cada miembro del equipo:
 -Jenyfer Alexandra Rico Cárdenas: Estudiante de Biología de 7 semestre en la Universidad del Tolima. Poca experiencia en programación además de la aprendida en ciclos 
 pasados.
-Ruta url del repositorio GitHub
+-Andrés Palma Figueroa : ingeniero industrial poseo conocimientos en abastecimiento modelado de indicadores y manejo de excel financiero, con conocimientos adquiridos en programacion mediante los ciclos de este curso.
+Ruta url del repositorio GitHub: https://github.com/dfelipeg/SoftwareManufactura
 
