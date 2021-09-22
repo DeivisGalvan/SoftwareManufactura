@@ -7,5 +7,6 @@ Presentación de cada miembro del equipo:
 pasados.
 -Andrés Palma Figueroa : ingeniero industrial poseo conocimientos en abastecimiento modelado de indicadores y manejo de excel financiero, con conocimientos adquiridos en programacion mediante los ciclos de este curso.
 -David Felipe Guayambuco Medina: Ingeniero Sanitario y Ambiental, y estudiante de Ingenieria Industrial, con experiencia en consultoría en proyectos ambientales, iniciando en el mundo de la programación gracias al proyecto “Misión TIC 2022”.
+-David Santiago Pérez Riaño - Tecnólogo en Gestión Logística - Novato en temas de programación.
 Ruta url del repositorio GitHub: https://github.com/dfelipeg/SoftwareManufactura
 
